@@ -31,7 +31,7 @@ public class RomanToInteger {
                     current = 1000;
                     break;
             }
-            if(previous < current){
+            if (previous < current) {
                 arabicSum += current - (previous * 2);
             } else {
                 arabicSum += current;
