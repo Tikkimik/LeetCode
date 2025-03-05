@@ -1,4 +1,4 @@
-package praktikum;
+package Problems.easy;
 
 public class RemoveElement {
 
